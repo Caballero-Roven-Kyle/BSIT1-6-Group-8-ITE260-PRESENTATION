@@ -1,6 +1,14 @@
 # BSIT1-6-Group-8-ITE260-PRESENTATION
 ---ITE 260 PRESENTATION---
----GROUP-8---
+
+
+
+
+
+
+
+
+
 ---ROCK PAPER SCISSORS GAME---
 
 
